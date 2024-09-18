@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nevil-moradiya
+- 👀 I’m interested in Study
+- 🌱 I’m currently learning CS
+- 💞️ I’m looking to collaborate on Open source
